@@ -33,3 +33,5 @@ function paridadArray(ingredientes) {
 }
 
 paridadArray(arrayIngredientes);
+
+
